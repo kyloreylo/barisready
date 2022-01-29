@@ -1,5 +1,5 @@
 # barisready 
- A kind of fitness app for powerlifters and other athletes which they can calculate their weights, bar and etc. \n
+ A kind of fitness app for powerlifters and other athletes which they can calculate their weights, bar and etc. 
  to use this project : 
  1- create a folder named "barisready"
  2- copy all things inside of it
